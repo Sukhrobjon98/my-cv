@@ -61,10 +61,10 @@ const techSkills = [
     id: 9,
     name: "Redis",
   },
-  {
-    id: 8,
-    name: "Nats",
-  },
+  // {
+  //   id: 8,
+  //   name: "Nats",
+  // },
   {
     id: 10,
     name: "RabbitMq",
