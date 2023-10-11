@@ -80,10 +80,7 @@ const techSkills = [
   {
     id: 13,
     name: "HTML/CSS",
-  },{
-    id:14,
-    name:"VueJs"
-  }
+  },
 ];
 
 const softSkills = [
