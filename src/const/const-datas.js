@@ -71,7 +71,7 @@ const techSkills = [
   },
   {
     id: 11,
-    name: "Sequlize/Prisma",
+    name: "Sequlize/Prisma/TypeORM",
   },
   {
     id: 12,
