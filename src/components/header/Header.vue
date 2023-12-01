@@ -51,7 +51,7 @@ const data = [
     {
         name: "GitHub",
         icon: github,
-        href: "https://github.com/Sukhrobjon9848",
+        href: "https://github.com/Sukhrobjon98",
     },
     {
       name: "suxrobjon1998@gmail.com",
