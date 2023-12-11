@@ -82,7 +82,7 @@ const techSkills = [
     name: "HTML/CSS",
   },{
   id:14,
-  name:"Socket.io"
+  name:"Socket.io"}
 ];
 
 const softSkills = [
