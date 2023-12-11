@@ -71,7 +71,7 @@ const techSkills = [
   },
   {
     id: 11,
-    name: "Sequlize/Prisma/TypeORM",
+    name: "Sequlize/TypeORM",
   },
   {
     id: 12,
@@ -80,7 +80,9 @@ const techSkills = [
   {
     id: 13,
     name: "HTML/CSS",
-  },
+  },{
+  id:14,
+  name:"Socket.io"
 ];
 
 const softSkills = [
